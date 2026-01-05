@@ -1,0 +1,15 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 35ccc85..00b72a0 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,9 +1,7 @@[m
+ <h2>[m
+     khal mohammad [m
+[31m-<<<<<<< Updated upstream[m
+ </h2>[m
+[31m-=======[m
+     mohammad qudsgit [m
+     farid khal mohammad[m
+ </h2>[m
+[31m->>>>>>> Stashed changes[m
+[41m+[m
